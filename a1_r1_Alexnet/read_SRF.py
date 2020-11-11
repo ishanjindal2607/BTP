@@ -78,4 +78,4 @@ for h in range(1,6):
 				
 for i in range(0,7):
 	sheet1.write(i+1, 0, side[i])
-	wb.save('example17.xls')
+wb.save("file_{}_shared_ws.xls".format(str(sys.argv[1])))
