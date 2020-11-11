@@ -11,7 +11,7 @@ Info: generating outputs according to the following specified output flags...
 Warn: Cannot recognize the top key "mapper" in file simple_weight_stationary/mapper/mapper.yaml 
 Warn: Cannot recognize the top key "architecture_constraints" in file simple_weight_stationary/constraints/simple_weight_stationary_arch_constraints.yaml 
 Warn: Cannot recognize the top key "mapspace_constraints" in file simple_weight_stationary/constraints/simple_weight_stationary_map_constraints.yaml 
-Warn: Cannot recognize the top key "problem" in file g16_a1_r1_Alexnet/alexNet_CONV5.yaml 
+Warn: Cannot recognize the top key "problem" in file g1_a1_r1_Alexnet/alexNet_CONV2.yaml 
 Info: Parsing file simple_weight_stationary/arch/simple_weight_stationary.yaml for architecture info 
 Info: Parsing file simple_weight_stationary/arch/components/reg_storage.yaml for compound_components info 
 Info: Parsing file simple_weight_stationary/arch/components/smartbuffer_RF.yaml for compound_components info 
@@ -30,9 +30,9 @@ table-based-plug-ins Identifies a set of tables named:  test_tables
 Info: CACTI plug-in... Querying CACTI for request:
  {'class_name': 'SRAM', 'attributes': OrderedDict([('technology', '45nm'), ('width', 64), ('depth', 16384), ('n_rdwr_ports', 2), ('n_banks', 32), ('n_rd_ports', 0), ('n_wr_ports', 0), ('latency', '5ns')]), 'action_name': 'write', 'arguments': {'data_delta': 0, 'address_delta': 0}}
 Warn: No action counts are specified as yaml input 
-Info: flattened architecture is saved to: res_g16_a05_r1_alecnet/layer5//timeloop-mapper.flattened_architecture.yaml 
-Info: energy reference table is saved to: res_g16_a05_r1_alecnet/layer5//timeloop-mapper.ERT.yaml 
-Info: energy reference table summary is saved to: res_g16_a05_r1_alecnet/layer5//timeloop-mapper.ERT_summary.yaml 
+Info: flattened architecture is saved to: res_g1_a05_r1_alecnet/layer2//timeloop-mapper.flattened_architecture.yaml 
+Info: energy reference table is saved to: res_g1_a05_r1_alecnet/layer2//timeloop-mapper.ERT.yaml 
+Info: energy reference table summary is saved to: res_g1_a05_r1_alecnet/layer2//timeloop-mapper.ERT_summary.yaml 
 Warn: no runtime energy estimations are generated... not generating energy_estimation.yaml 
-Info: area reference table is saved to: res_g16_a05_r1_alecnet/layer5//timeloop-mapper.ART.yaml 
-Info: area reference table summary is saved to: res_g16_a05_r1_alecnet/layer5//timeloop-mapper.ART_summary.yaml 
+Info: area reference table is saved to: res_g1_a05_r1_alecnet/layer2//timeloop-mapper.ART.yaml 
+Info: area reference table summary is saved to: res_g1_a05_r1_alecnet/layer2//timeloop-mapper.ART_summary.yaml 
