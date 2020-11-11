@@ -1,0 +1,29 @@
+[  7] Utilization = 0.19 | pJ/MACC =   95.278 | L5[WIO] M3 - L4[] Q1 M16Y C3X - L3[W] S11 R11 Q5 P55 - L2[W] Q11 - L1[I] Q1 - L0[O] Q1 
+[  6] Utilization = 0.19 | pJ/MACC =   95.278 | L5[WIO] Q1 - L4[] M3 M16Y C3X - L3[W] S11 R11 Q5 P55 - L2[W] Q11 - L1[I] Q1 - L0[O] Q1 
+[  7] Utilization = 0.19 | pJ/MACC =   90.104 | L5[WIO] Q5 M3 P11 - L4[I] Q1 M16Y C3X - L3[W] S11 R11 - L2[W] Q11 P5 - L1[I] Q1 - L0[O] Q1 
+[  6] Utilization = 0.19 | pJ/MACC =   91.279 | L5[WIO] Q5 P11 - L4[I] M3 M16Y C3X - L3[W] S11 R11 - L2[W] Q11 P5 - L1[I] Q1 - L0[O] Q1 
+[  6] Utilization = 0.19 | pJ/MACC =   89.342 | L5[WIO] Q5 P11 - L4[WI] M3 M16Y C3X - L3[W] S11 R11 - L2[W] Q11 P5 - L1[I] Q1 - L0[O] Q1 
+[  7] Utilization = 0.19 | pJ/MACC =   89.933 | L5[WIO] M3 Q5 P11 - L4[I] Q1 M16Y C3X - L3[W] S11 R11 - L2[W] P5 Q11 - L1[I] Q1 - L0[O] Q1 
+[  7] Utilization = 0.19 | pJ/MACC =   89.631 | L5[WIO] Q11 M3 - L4[I] P55 M16Y C3X - L3[W] S11 R11 - L2[W] Q5 - L1[I] Q1 - L0[O] Q1 
+[  7] Utilization = 0.19 | pJ/MACC =   89.317 | L5[WIO] P11 M3 - L4[I] Q1 M16Y C3X - L3[W] S11 R11 - L2[W] P5 Q55 - L1[I] Q1 - L0[O] Q1 
+[  6] Utilization = 0.19 | pJ/MACC =   88.969 | L5[WIO] P11 - L4[WI] M3 M16Y C3X - L3[W] S11 R11 - L2[W] P5 Q55 - L1[I] Q1 - L0[O] Q1 
+[  7] Utilization = 0.19 | pJ/MACC =   89.068 | L5[WIO] P5 M3 - L4[I] Q5 M16Y C3X - L3[W] S11 R11 Q11 - L2[W] P11 - L1[I] Q1 - L0[O] Q1 
+[  6] Utilization = 0.19 | pJ/MACC =   23.973 | L5[WIO] P5 Q11 - L4[] Q5 M3 P11 M16Y C3X - L3[W] S11 R11 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  6] Utilization = 0.19 | pJ/MACC =   14.095 | L5[WIO] P5 Q11 - L4[W] Q5 M3 P11 M16Y C3X - L3[W] S11 R11 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  6] Utilization = 0.19 | pJ/MACC =    7.754 | L5[WIO] P5 Q11 - L4[WI] Q5 M3 P11 M16Y C3X - L3[W] S11 R11 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  6] Utilization = 0.19 | pJ/MACC =    6.271 | L5[WIO] P5 Q11 - L4[WI] M3 Q5 P11 M16Y C3X - L3[W] S11 R11 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  7] Utilization = 0.19 | pJ/MACC =   12.407 | L5[WIO] P5 M3 Q11 - L4[] Q5 P11 M16Y C3X - L3[W] S11 R11 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  7] Utilization = 0.19 | pJ/MACC =    7.033 | L5[WIO] P5 M3 Q11 - L4[I] Q5 P11 M16Y C3X - L3[W] S11 R11 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  7] Utilization = 0.19 | pJ/MACC =    6.862 | L5[WIO] M3 P5 Q11 - L4[I] Q5 P11 M16Y C3X - L3[W] S11 R11 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  6] Utilization = 0.19 | pJ/MACC =    6.218 | L5[WIO] P55 - L4[WI] M3 Q55 M16Y C3X - L3[W] S11 R11 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  7] Utilization = 0.19 | pJ/MACC =    6.702 | L5[WIO] M3 P55 - L4[I] Q55 M16Y C3X - L3[W] S11 R11 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  5] STATEMENT: 15000 invalid mappings (0 fanout, 15000 capacity) found since the last valid mapping, terminating search.
+[  0] STATEMENT: 15000 invalid mappings (0 fanout, 15000 capacity) found since the last valid mapping, terminating search.
+[  4] STATEMENT: 15000 invalid mappings (0 fanout, 15000 capacity) found since the last valid mapping, terminating search.
+[  2] STATEMENT: 15000 invalid mappings (0 fanout, 15000 capacity) found since the last valid mapping, terminating search.
+[  1] STATEMENT: 15000 invalid mappings (0 fanout, 15000 capacity) found since the last valid mapping, terminating search.
+[  3] STATEMENT: 15000 invalid mappings (0 fanout, 15000 capacity) found since the last valid mapping, terminating search.
+[  6] Utilization = 0.19 | pJ/MACC =    5.921 | L5[WIO] Q11 - L4[WI] M3 P55 Q5 M16Y C3X - L3[W] S11 R11 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  7] Utilization = 0.19 | pJ/MACC =    6.270 | L5[WIO] Q11 M3 - L4[I] Q5 P55 M16Y C3X - L3[W] S11 R11 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  7] STATEMENT: 3000 suboptimal mappings found since the last upgrade, terminating search.
+[  6] STATEMENT: 3000 suboptimal mappings found since the last upgrade, terminating search.
