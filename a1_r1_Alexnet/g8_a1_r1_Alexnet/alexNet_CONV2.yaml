@@ -3,7 +3,7 @@ problem:
     C: 12 #g=8 96/8
     Hdilation: 1
     Hstride: 1
-    M: 32 #g=8 256/8 alpha=1
+    M: 16 #g=8 256/8 alpha=0.5
     N: 1
     P: 27 #rho=1
     Q: 27

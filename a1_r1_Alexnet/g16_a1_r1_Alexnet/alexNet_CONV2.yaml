@@ -3,7 +3,7 @@ problem:
     C: 6 #g=16 96/16 
     Hdilation: 1
     Hstride: 1
-    M: 16 #g=16 256/16 alpha=1
+    M: 8 #g=16 256/16 alpha=0.5
     N: 1
     P: 27 #rho=1
     Q: 27

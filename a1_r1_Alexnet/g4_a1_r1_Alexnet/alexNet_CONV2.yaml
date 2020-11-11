@@ -3,7 +3,7 @@ problem:
     C: 24 #g=4 96/4  
     Hdilation: 1
     Hstride: 1
-    M: 64 #g=4 256/4 alpha=1
+    M: 32 #g=4 256/4 alpha=1
     N: 1
     P: 27 #rho=1
     Q: 27

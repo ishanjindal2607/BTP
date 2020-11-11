@@ -3,7 +3,7 @@ problem:
     C: 96 #g=4 384/4
     Hdilation: 1
     Hstride: 1
-    M: 96 #g=4 384/4 alpha=1
+    M: 48 #g=4 384/4 alpha=0.5
     N: 1
     P: 13
     Q: 13

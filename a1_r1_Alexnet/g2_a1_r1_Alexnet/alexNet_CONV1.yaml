@@ -3,7 +3,7 @@ problem:
     C: 3
     Hdilation: 1
     Hstride: 4
-    M: 96
+    M: 48     #a = 0.5
     N: 1
     P: 55
     Q: 55

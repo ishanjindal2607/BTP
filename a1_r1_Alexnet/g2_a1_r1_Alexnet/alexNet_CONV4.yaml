@@ -3,7 +3,7 @@ problem:
     C: 192 #g=2 384/2 
     Hdilation: 1
     Hstride: 1
-    M: 192 #g=2 384/2 alpha=1
+    M: 96 #g=2 384/2 alpha=0.5
     N: 1
     P: 13 #rho=1 13*1
     Q: 13

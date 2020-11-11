@@ -3,7 +3,7 @@ problem:
     C: 96 #g=4 384/4
     Hdilation: 1
     Hstride: 1
-    M: 64 #g=4 256/4
+    M: 32 #g=4 256/4 , a = 0.5
     N: 1
     P: 13 #rho=1
     Q: 13
