@@ -44,4 +44,4 @@ for h in range(1,5):
 				
 for i in range(0,13):
 	sheet1.write(i+1, 0, side[i])
-	wb.save('xlwt example.xls')
+wb.save('ECP_{}.xls'.format(sys.argv[1]))
