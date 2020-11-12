@@ -1,0 +1,64 @@
+[  5] Utilization = 1.00 | pJ/MACC =   23.531 | L5[WIO] C16 - L4[] P13 M12 Q13 M16Y C16X - L3[W] S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  5] Utilization = 1.00 | pJ/MACC =   16.820 | L5[WIO] C16 - L4[I] P13 M12 Q13 M16Y C16X - L3[W] S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  4] Utilization = 1.00 | pJ/MACC =  143.149 | L5[WIO] C8 - L4[] P13 C2 Q13 M12 M16Y C16X - L3[W] S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  4] Utilization = 1.00 | pJ/MACC =  136.438 | L5[WIO] C8 - L4[I] P13 C2 Q13 M12 M16Y C16X - L3[W] S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  3] Utilization = 1.00 | pJ/MACC =   22.642 | L5[WIO] C8 - L4[] P13 M12 Q13 M16Y C16X - L3[W] C2 S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  3] Utilization = 1.00 | pJ/MACC =   15.930 | L5[WIO] C8 - L4[I] P13 M12 Q13 M16Y C16X - L3[W] C2 S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  2] Utilization = 1.00 | pJ/MACC =  143.149 | L5[WIO] P13 Q13 C16 - L4[] M6 M16Y C16X - L3[W] M2 S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  2] Utilization = 1.00 | pJ/MACC =  137.089 | L5[WIO] P13 Q13 C16 - L4[I] M6 M16Y C16X - L3[W] M2 S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  1] Utilization = 1.00 | pJ/MACC =  143.149 | L5[WIO] C4 - L4[] P13 C4 Q13 M12 M16Y C16X - L3[W] S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  1] Utilization = 1.00 | pJ/MACC =  136.438 | L5[WIO] C4 - L4[I] P13 C4 Q13 M12 M16Y C16X - L3[W] S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  7] Utilization = 1.00 | pJ/MACC =   13.441 | L5[WIO] C8 M2 Q13 - L4[] P13 M16Y C16X - L3[W] M6 C2 S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  7] Utilization = 1.00 | pJ/MACC =    6.842 | L5[WIO] C8 M2 Q13 - L4[I] P13 M16Y C16X - L3[W] M6 C2 S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  4] Utilization = 1.00 | pJ/MACC =   14.330 | L5[WIO] C8 - L4[] M12 C2 Q13 P13 M16Y C16X - L3[W] S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  4] Utilization = 1.00 | pJ/MACC =    7.618 | L5[WIO] C8 - L4[I] M12 C2 Q13 P13 M16Y C16X - L3[W] S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  0] Utilization = 1.00 | pJ/MACC =  142.260 | L5[WIO] C4 - L4[] P13 C2 Q13 M12 M16Y C16X - L3[W] C2 S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  0] Utilization = 1.00 | pJ/MACC =  135.548 | L5[WIO] C4 - L4[I] P13 C2 Q13 M12 M16Y C16X - L3[W] C2 S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  2] Utilization = 1.00 | pJ/MACC =  136.618 | L5[WIO] P13 C16 Q13 - L4[I] M6 M16Y C16X - L3[W] M2 S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  5] Utilization = 1.00 | pJ/MACC =   14.330 | L5[WIO] C16 - L4[] M12 P13 Q13 M16Y C16X - L3[W] S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  5] Utilization = 1.00 | pJ/MACC =    7.618 | L5[WIO] C16 - L4[I] M12 P13 Q13 M16Y C16X - L3[W] S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  6] Utilization = 1.00 | pJ/MACC =   23.531 | L5[WIO] Q13 C4 M3 - L4[] M4 C4 P13 M16Y C16X - L3[W] S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  1] Utilization = 1.00 | pJ/MACC =   14.330 | L5[WIO] C4 - L4[] M12 C4 Q13 P13 M16Y C16X - L3[W] S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  1] Utilization = 1.00 | pJ/MACC =    7.618 | L5[WIO] C4 - L4[I] M12 C4 Q13 P13 M16Y C16X - L3[W] S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  6] Utilization = 1.00 | pJ/MACC =   17.001 | L5[WIO] Q13 C4 M3 - L4[I] M4 C4 P13 M16Y C16X - L3[W] S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  0] Utilization = 1.00 | pJ/MACC =   13.441 | L5[WIO] C4 - L4[] M12 C2 Q13 P13 M16Y C16X - L3[W] C2 S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  0] Utilization = 1.00 | pJ/MACC =    6.729 | L5[WIO] C4 - L4[I] M12 C2 Q13 P13 M16Y C16X - L3[W] C2 S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  3] Utilization = 1.00 | pJ/MACC =   13.441 | L5[WIO] C8 - L4[] M12 P13 Q13 M16Y C16X - L3[W] C2 S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  3] Utilization = 1.00 | pJ/MACC =    6.729 | L5[WIO] C8 - L4[I] M12 P13 Q13 M16Y C16X - L3[W] C2 S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  2] Utilization = 1.00 | pJ/MACC =   27.088 | L5[WIO] C2 - L4[] M6 P13 M16Y C16X - L3[W] C8 M2 S3 R3 - L2[W] Q13 - L1[I] Q1 - L0[O] Q1 
+[  2] Utilization = 1.00 | pJ/MACC =   20.376 | L5[WIO] C2 - L4[I] M6 P13 M16Y C16X - L3[W] C8 M2 S3 R3 - L2[W] Q13 - L1[I] Q1 - L0[O] Q1 
+[  6] Utilization = 1.00 | pJ/MACC =   16.820 | L5[WIO] C4 Q13 M3 - L4[I] M4 C4 P13 M16Y C16X - L3[W] S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  6] Utilization = 1.00 | pJ/MACC =   12.662 | L5[WIO] M6 - L4[] M2 P13 Q13 M16Y C16X - L3[W] C16 S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  6] Utilization = 1.00 | pJ/MACC =    5.951 | L5[WIO] M6 - L4[I] M2 P13 Q13 M16Y C16X - L3[W] C16 S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  2] Utilization = 1.00 | pJ/MACC =   20.315 | L5[WIO] C2 M12 - L4[I] C2 Q13 M16Y C16X - L3[W] C4 S3 R3 P13 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  2] Utilization = 1.00 | pJ/MACC =   20.263 | L5[WIO] C2 - L4[I] C8 M4 M16Y C16X - L3[W] M3 S3 R3 Q13 P13 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  2] Utilization = 1.00 | pJ/MACC =   18.471 | L5[WIO] M6 P13 C4 Q13 - L4[I] Q1 M16Y C16X - L3[W] C4 M2 S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  2] Utilization = 1.00 | pJ/MACC =   17.137 | L5[WIO] M6 Q13 C4 P13 - L4[I] Q1 M16Y C16X - L3[W] M2 C4 S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  2] Utilization = 1.00 | pJ/MACC =   14.330 | L5[WIO] C4 M6 Q13 P13 - L4[] Q1 M16Y C16X - L3[W] C4 M2 S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  2] Utilization = 1.00 | pJ/MACC =    9.270 | L5[WIO] C4 M6 Q13 P13 - L4[I] Q1 M16Y C16X - L3[W] C4 M2 S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  2] Utilization = 1.00 | pJ/MACC =    7.618 | L5[WIO] C4 M2 - L4[I] M2 C2 P13 Q13 M16Y C16X - L3[W] C2 M3 S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  2] Utilization = 1.00 | pJ/MACC =    6.842 | L5[WIO] M2 C4 - L4[I] M2 C2 P13 Q13 M16Y C16X - L3[W] M3 C2 S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  5] Utilization = 1.00 | pJ/MACC =    6.842 | L5[WIO] M2 C8 - L4[I] M2 Q13 P13 M16Y C16X - L3[W] M3 C2 S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  5] Utilization = 1.00 | pJ/MACC =    6.729 | L5[WIO] C8 M2 - L4[I] M2 P13 Q13 M16Y C16X - L3[W] M3 C2 S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  0] Utilization = 1.00 | pJ/MACC =    6.284 | L5[WIO] C4 M2 - L4[I] M2 P13 Q13 M16Y C16X - L3[W] M3 C4 S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  2] Utilization = 1.00 | pJ/MACC =    6.729 | L5[WIO] C4 M12 - L4[I] C2 P13 Q13 M16Y C16X - L3[W] C2 S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  1] Utilization = 1.00 | pJ/MACC =    6.624 | L5[WIO] M4 C4 P13 - L4[I] Q13 M16Y C16X - L3[W] M3 C4 S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  7] Utilization = 1.00 | pJ/MACC =    6.062 | L5[WIO] C2 M12 - L4[I] Q13 P13 M16Y C16X - L3[W] C8 S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  5] Utilization = 1.00 | pJ/MACC =    6.062 | L5[WIO] C2 - L4[I] M12 P13 Q13 M16Y C16X - L3[W] C8 S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  1] Utilization = 1.00 | pJ/MACC =    6.284 | L5[WIO] C2 - L4[I] C2 M3 P13 Q13 M16Y C16X - L3[W] M4 C4 S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  4] Utilization = 1.00 | pJ/MACC =    6.729 | L5[WIO] M3 - L4[I] C8 P13 Q13 M16Y C16X - L3[W] M4 C2 S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  2] Utilization = 1.00 | pJ/MACC =    6.284 | L5[WIO] M3 - L4[I] C4 P13 Q13 M16Y C16X - L3[W] M4 C4 S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  1] Utilization = 1.00 | pJ/MACC =    6.062 | L5[WIO] C2 M6 - L4[I] Q13 P13 M16Y C16X - L3[W] M2 C8 S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  2] Utilization = 1.00 | pJ/MACC =    6.062 | L5[WIO] M6 - L4[I] M2 C2 P13 Q13 M16Y C16X - L3[W] C8 S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  3] Utilization = 1.00 | pJ/MACC =    6.510 | L5[WIO] M3 C4 - L4[I] M4 Q13 P13 M16Y C16X - L3[W] C4 S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  3] Utilization = 1.00 | pJ/MACC =    6.284 | L5[WIO] C4 M3 - L4[I] M4 Q13 P13 M16Y C16X - L3[W] C4 S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  1] Utilization = 1.00 | pJ/MACC =    5.951 | L5[WIO] M12 - L4[I] P13 Q13 M16Y C16X - L3[W] C16 S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  6] STATEMENT: 3000 suboptimal mappings found since the last upgrade, terminating search.
+[  0] STATEMENT: 3000 suboptimal mappings found since the last upgrade, terminating search.
+[  7] STATEMENT: 3000 suboptimal mappings found since the last upgrade, terminating search.
+[  5] STATEMENT: 3000 suboptimal mappings found since the last upgrade, terminating search.
+[  2] Utilization = 1.00 | pJ/MACC =    5.951 | L5[WIO] M2 - L4[I] M6 P13 Q13 M16Y C16X - L3[W] C16 S3 R3 - L2[W] Q1 - L1[I] Q1 - L0[O] Q1 
+[  1] STATEMENT: 3000 suboptimal mappings found since the last upgrade, terminating search.
+[  4] STATEMENT: 3000 suboptimal mappings found since the last upgrade, terminating search.
+[  3] STATEMENT: 3000 suboptimal mappings found since the last upgrade, terminating search.
+[  2] STATEMENT: 3000 suboptimal mappings found since the last upgrade, terminating search.
